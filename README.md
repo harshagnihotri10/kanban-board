@@ -1,49 +1,75 @@
 # Kanban Board
-This project is a Kanban board implemented using **React.js**, allowing users to manage and visualize tasks based on their status, assigned users, and priority levels. Additionally, the application provides features for ordering tasks based on their title and priority.
+
+Welcome to the Kanban Board, a web application built with **React.js** that allows users to manage and visualize tasks based on their status, assigned users, and priority. This Kanban Board offers a user-friendly interface for organizing tasks efficiently. Additionally, it provides features to order tasks based on their title and priority.
 
 ## Features
 
-1. **Status-based Grouping**: The Kanban board allows users to group tasks based on their status. This provides a clear overview of the current state of tasks, such as "To Do," "In Progress," and "Done."
+- **Grouping by Status, Users, and Priority:** Users can group tasks based on their status, assigned users, and priority, allowing for a structured view of the tasks.
 
-2. **User-based Grouping**: Users have the option to group tasks by the assigned user. This feature enhances collaboration and allows team members to quickly identify tasks assigned to them or their colleagues.
+- **Ordering by Title and Priority:** Tasks can be ordered alphabetically by title or by priority, offering flexibility in how users prefer to view their tasks.
 
-3. **Priority-based Grouping**: The application supports grouping tasks by priority, allowing users to focus on high-priority tasks and efficiently manage their work.
+- **User Profile Icons:** Each task displays a user profile icon for a quick visual identification of the assigned user.
 
-4. **Ordering by Title and Priority**: The Kanban board offers the flexibility to order tasks based on their titles or priority levels. This feature enables users to organize tasks in a way that suits their workflow.
+- **Responsive Design:** The Kanban Board is designed to be responsive, ensuring a seamless experience across various devices.
 
-## Getting Started
+## Live Demo
 
-### Prerequisites
+Explore the live demo of the Kanban Board at [https://kanban-board-github-io.vercel.app/](https://kanban-board-github-io.vercel.app/)
 
-Make sure you have **Node.js** installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
+## Usage
+
+1. **Grouping Tasks:**
+   - Use the "Display" button to access the context menu and select your preferred grouping option (Status, Users, Priority).
+   - Tasks will be organized based on your chosen grouping.
+
+2. **Ordering Tasks:**
+   - Click on the "Display" button and select the ordering option (Title, Priority) from the context menu.
+   - Tasks will be ordered accordingly.
+
+3. **User Profile Icons:**
+   - User profile icons provide a visual representation of the assigned user for each task.
+
+4. **Responsive Design:**
+   - The Kanban Board is designed to be accessible on various devices, ensuring a user-friendly experience.
+
+## Development
 
 ### Installation
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/harshagnihotri10/kanban-board.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
+   git clone https://github.com/YOUR_USERNAME/kanban-board.git
    cd kanban-board
    ```
 
-3. Install dependencies:
-
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-### Usage
+### Run Locally
 
-Run the development server:
+Run the application locally for development purposes:
+   ```bash
+   npm start
+   ```
 
-```bash
-npm start
-```
+The application will be accessible at `http://localhost:3000`.
 
-Open your browser and visit [http://localhost:3000/](http://localhost:3000/) to view the Kanban board.
+### Deployment
+
+Deploy the application to production:
+   ```bash
+   npm run build
+   ```
+
+The build artifacts will be available in the `build` directory, ready for deployment to hosting platforms.
+
+## Technologies Used
+
+- **React.js:** The frontend of the Kanban Board is built using the React.js library.
+
+- **CSS:** Styling is done using CSS to ensure a clean and visually appealing user interface.
+
+- **Vercel:** The Kanban Board is deployed and hosted on Vercel for accessibility.
 
