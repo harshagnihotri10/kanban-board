@@ -38,7 +38,7 @@ Explore the live demo of the Kanban Board at [https://kanban-board-github-io.ver
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/kanban-board.git
+   git clone https://github.com/harshagnihotri10/kanban-board.git
    cd kanban-board
    ```
 
