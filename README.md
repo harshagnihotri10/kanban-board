@@ -71,5 +71,5 @@ The build artifacts will be available in the `build` directory, ready for deploy
 
 - **CSS:** Styling is done using CSS to ensure a clean and visually appealing user interface.
 
-- **Vercel:** The Kanban Board is deployed and hosted on Vercel for accessibility.
+- **Vercel:** The Kanban Board is deployed and hosted on Vercel for accessibility..
 
