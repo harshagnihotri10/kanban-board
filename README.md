@@ -12,7 +12,7 @@ Welcome to the Kanban Board, a web application built with **React.js** that allo
 
 - **Responsive Design:** The Kanban Board is designed to be responsive, ensuring a seamless experience across various devices.
 
-## Live Demo
+## Live Demo.
 
 Explore the live demo of the Kanban Board at [https://kanban-board-github-io.vercel.app/](https://kanban-board-github-io.vercel.app/)
 
