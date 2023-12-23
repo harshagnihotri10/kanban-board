@@ -16,7 +16,7 @@ Welcome to the Kanban Board, a web application built with **React.js** that allo
 
 Explore the live demo of the Kanban Board at [https://kanban-board-github-io.vercel.app/](https://kanban-board-github-io.vercel.app/)
 
-## Usage
+## Usage.
 
 1. **Grouping Tasks:**
    - Use the "Display" button to access the context menu and select your preferred grouping option (Status, Users, Priority).
