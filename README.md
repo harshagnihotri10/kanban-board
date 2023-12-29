@@ -3,7 +3,7 @@
 Welcome to the Kanban Board, a web application built with **React.js** that allows users to manage and visualize tasks based on their status, assigned users, and priority. This Kanban Board offers a user-friendly interface for organizing tasks efficiently. Additionally, it provides features to order tasks based on their title and priority.
 
 ## Features
-
+.
 - **Grouping by Status, Users, and Priority:** Users can group tasks based on their status, assigned users, and priority, allowing for a structured view of the tasks.
 
 - **Ordering by Title and Priority:** Tasks can be ordered alphabetically by title or by priority, offering flexibility in how users prefer to view their tasks.
